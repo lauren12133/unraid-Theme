@@ -20,9 +20,14 @@ unraid界面美化代码
 <link type="text/css" rel="Stylesheet" href="https://raw.githubusercontent.com/lauren12133/unraid-Theme/main/Aquamarine/main.css" />
 ```
 
-#Aquamarine
+#Hotline
 ```
 </style> 
 <link type="text/css" rel="Stylesheet" href="https://raw.githubusercontent.com/lauren12133/unraid-Theme/main/Hotline/main.css" />
 ```
 
+#Hotpink
+```
+</style> 
+<link type="text/css" rel="Stylesheet" href="https://raw.githubusercontent.com/lauren12133/unraid-Theme/main/Hotpink/main.css" />
+```
