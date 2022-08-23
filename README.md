@@ -13,3 +13,9 @@ unraid界面美化代码
 </style> 
 <link type="text/css" rel="Stylesheet" href="https://raw.githubusercontent.com/lauren12133/unraid-Theme/main/dark/main.css" />
 ```
+
+#Aquamarine
+```
+</style> 
+<link type="text/css" rel="Stylesheet" href="https://raw.githubusercontent.com/lauren12133/unraid-Theme/main/Aquamarine/main.css" />
+```
