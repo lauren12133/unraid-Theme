@@ -46,3 +46,9 @@ unraid界面美化代码
 </style> 
 <link type="text/css" rel="Stylesheet" href="https://raw.githubusercontent.com/lauren12133/unraid-Theme/main/Space-gray/main.css" />
 ```
+
+#cartoon   背景图请修改cartoon.css中background-image中得图片路径或者改成本地
+```
+</style> 
+<link type="text/css" rel="Stylesheet" href="https://raw.githubusercontent.com/lauren12133/unraid-Theme/main/cartoon/main.css" />
+```
