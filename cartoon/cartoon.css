@@ -11,7 +11,7 @@
     --label-text-color: #282a36;
     --text: #eee;
 
-    background-image: url("/mnt/user/theme/bg.jpg");
+    background-image: url("https://raw.githubusercontent.com/lauren12133/unraid-Theme/main/cartoon/bg.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
