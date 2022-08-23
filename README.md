@@ -1,4 +1,7 @@
 # unraid-Theme
+[感谢drixn大佬的教程](https://www.drixn.com/2932.html)
+
+此项目只做存档使用。。。
 
 unraid界面美化代码
 
