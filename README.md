@@ -37,3 +37,9 @@ unraid界面美化代码
 </style> 
 <link type="text/css" rel="Stylesheet" href="https://raw.githubusercontent.com/lauren12133/unraid-Theme/main/Dracula/main.css" />
 ```
+
+#Space-gray
+```
+</style> 
+<link type="text/css" rel="Stylesheet" href="https://raw.githubusercontent.com/lauren12133/unraid-Theme/main/Space-gray/main.css" />
+```
