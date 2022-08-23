@@ -6,3 +6,10 @@ unraid界面美化代码
 </style> 
 <link type="text/css" rel="Stylesheet" href="替换你想要的css样式链接" />
 ```
+
+
+#dark
+```
+</style> 
+<link type="text/css" rel="Stylesheet" href="https://raw.githubusercontent.com/lauren12133/unraid-Theme/main/dark/main.css" />
+```
